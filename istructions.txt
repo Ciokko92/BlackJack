@@ -1,0 +1,10 @@
+I suggest to compile and to execute BlackJack.java with your terminal.
+So if you have Windows system you must follow this passages:
+- download BlackJack.java in your directory
+- from this directory run your cmd terminal
+- digit: chcp 65001
+- digit: javac blackJack.java
+- digit: java BlackJack
+- have fun!
+If you have Mac:
+- have fun!
